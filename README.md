@@ -1,6 +1,9 @@
-# Basic Login Flutter App with Firebase
+# Boilerplate for Flutter App
 
-A new Flutter project.
+Features
+
+- Splashscreen
+- Login / Signup using Firebase
 
 ## Getting Started
 
