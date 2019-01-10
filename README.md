@@ -1,4 +1,4 @@
-# chatidol
+# Basic Login Flutter App with Firebase
 
 A new Flutter project.
 
